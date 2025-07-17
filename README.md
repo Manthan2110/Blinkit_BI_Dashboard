@@ -6,7 +6,7 @@ This Power BI project explores Blinkit's operational and business data to uncove
 
 ## 📸 Dashboard Preview
 
-![Website Link](https://blinkitdashboard.netlify.app/)
+https://blinkitdashboard.netlify.app/
 
 ---
 
